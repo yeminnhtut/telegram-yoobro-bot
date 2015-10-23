@@ -12,7 +12,7 @@ Have fun :)
 ##Credit
 Source codes are from  
 [tybot](https://github.com/greenlikeorange/tybot)  
-[Telegram-Ornagai-Bot](https://github.com/greenlikeorange/tybot)
+[Telegram Ornagai Bot](https://github.com/greenlikeorange/tybot)
 
 ## License
 
