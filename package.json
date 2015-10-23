@@ -1,0 +1,31 @@
+{
+  "name": "telegram-yoobro-bot",
+  "version": "1.0.0",
+  "description": "A Yoobro bot for Telegram",
+  "main": "index.js",
+  "dependencies": {
+    "fbgraph": "^1.1.0",
+    "lodash": "^3.10.1",
+    "nodemon": "^1.7.0",
+    "node-telegram-bot-api": "^0.12.1",
+    "request" : "^2.63.0",
+    "sprintf-js" : "1.0.3",
+    "telegram-bot-api" : "0.3.2"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "telegram",
+    "yoobro",
+    "bot"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ymhtut/telegram-yoobro-bot.git"
+  },
+  "homepage": "https://github.com/ymhtut/telegram-yoobro-bot",
+  "author": "Ye Min Htut <ymhyeminhtut@gmail.com>",
+  "license": "MIT"
+}
