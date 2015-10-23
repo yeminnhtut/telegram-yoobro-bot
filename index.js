@@ -53,9 +53,7 @@ bot.on('text', function(msg) {
     }else{
       bot.sendMessage(chatId, notready);
     }
-  } else if (msg.text == '/help') {
-    bot.sendMessage(chatId, help);
-  }  else {
+  } else {
     // do nothing
   }
 });
